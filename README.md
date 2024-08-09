@@ -2,4 +2,4 @@
 
 **fun custom css scripts to make discord look better**
 
-**developed by realfishtrust**
+developed by realfishtrust
